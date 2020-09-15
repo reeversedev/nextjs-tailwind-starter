@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import Nav from '../components/nav';
 
 const Page = () => (
   <div>
@@ -6,7 +7,10 @@ const Page = () => (
       <title>Next.js + Tailwind Starter</title>
       <link rel="shortcut icon" href="/favicon.png" />
     </Head>
-    Welcome to Next.js starter
+    <Nav />
+    <h1 className="text-5xl text-center text-teal-800">
+      Next.js + Tailwind Starter
+    </h1>
   </div>
 );
 
