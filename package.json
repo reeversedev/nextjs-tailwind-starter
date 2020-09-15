@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-tailwind-starter",
+  "version": "1.0.0",
+  "description": "Next.js tailwind starter",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeversedev/nextjs-tailwind-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reeversedev/nextjs-tailwind-starter/issues"
+  },
+  "homepage": "https://github.com/reeversedev/nextjs-tailwind-starter#readme"
+}
