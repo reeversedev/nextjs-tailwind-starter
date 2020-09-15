@@ -9,7 +9,7 @@ const links = [
 
 export default function Nav() {
   return (
-    <nav>
+    <nav className="nav">
       <ul className="flex justify-between items-center p-8">
         <li>
           <Link href="/">

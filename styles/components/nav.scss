@@ -1,0 +1,13 @@
+@import '../variables.scss';
+
+.nav {
+  background-color: $base-background-color;
+
+  ul {
+    li {
+      a {
+        color: #ffffff;
+      }
+    }
+  }
+}
